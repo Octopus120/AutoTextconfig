@@ -28,6 +28,6 @@ Auto text expand & complete with hints <a name="TOP"></a>
 ### 3. How to ask question?
    Please post your questions in:
    
-   https://github.com/octpus123/AutoText/issues
+   https://github.com/octopus120/AutoTextConfig/issues
    
       
